@@ -4,7 +4,7 @@
 
 ## Hola, soy Felipe 👋
 
-**Desarrollador de software junior · Full Stack** · La Ceja, Antioquia, Colombia
+**Desarrollador de software junior · Full Stack** · Abejorral, Antioquia, Colombia
 
 Construyo sistemas web completos: ventas, reservas y pagos en línea con PHP, MySQL y JavaScript. Técnico en Análisis y Desarrollo de Software (SENA), tecnólogo en curso con grado en 2027. Busco mi primer rol como desarrollador junior.
 
